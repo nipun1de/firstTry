@@ -1,2 +1,3 @@
 # firstTry
 ........................
+I realy don't know what I'm doing now
